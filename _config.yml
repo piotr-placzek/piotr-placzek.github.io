@@ -8,8 +8,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
-      url: /
+#    - text: Home
+#      url: /
     - text: About
       url: /about
 #    - text: Blog
@@ -27,9 +27,9 @@ urls:
 author_logo: profile.jpg
 author: Piotr Płaczek
 author_bio: Piotr Płaczek bio
-author_email: "petrow17@gmail.com"
+#author_email: "petrow17@gmail.com"
 author_location: Poland
-author_website_url: "https://piotr-placzek.github.io"
+#author_website_url: "https://piotr-placzek.github.io"
 typewrite-text: Node.js developer
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -72,7 +72,7 @@ author_project_details:
 
 # social links
 #twitter_username: johndoe
-github_username: piotr-placzek
+#github_username: piotr-placzek
 #facebook_username: johndoe
 linkedin_username: piotr-placzek
 #behance_username: johndoe
@@ -173,7 +173,7 @@ jekyll_admin:
   #   - staticfiles
   #   - datafiles
   #   - configuration
-  homepage: "about"
+  homepage: "posts"
 
 
 # Exclude from processing.
