@@ -12,21 +12,21 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
+#    - text: Blog
+#      url: /blog
+#    - text: Gallery
+#      url: /gallery
+#    - text: Shop
+#      url : /shop
+#    - text: Contact
+#      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: https://avatars.githubusercontent.com/u/9105204?v=4
+author_logo: profile.jpg
 author: Piotr Płaczek
-author_bio: Piotr Płaczek
+author_bio: Piotr Płaczek bio
 author_email: "petrow17@gmail.com"
 author_location: Poland
 author_website_url: "https://piotr-placzek.github.io"
@@ -71,16 +71,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: johndoe
+github_username: piotr-placzek
+#facebook_username: johndoe
+linkedin_username: piotr-placzek
+#behance_username: johndoe
+#instagram_username: johndoe
+#medium_username: johndoe
+#telegram_username: johndoe
+#dribbble_username: johndoe
+#flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -109,7 +109,7 @@ permalink: pretty
 # Choose what to show ( can be true or false)
 show_author_work_experiences: false
 show_author_education_details: false
-show_author_project_details: true
+show_author_project_details: false
 
 # pagination of posts
 paginate: 4
